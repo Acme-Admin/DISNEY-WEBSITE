@@ -5,4 +5,4 @@ The full article is available at http://usersnap.com/blog/deploying-static-websi
 
 
 
-this is an update on a branch for me too
+this is an update on a branch for me toos
